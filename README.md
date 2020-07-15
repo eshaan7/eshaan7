@@ -1,6 +1,6 @@
 ### Hello there! 👋
   
-I am an IT student with interests in <mark>Cybersecurity</code> and <mark>Web Development</mark>.
+I am an IT student with interests in <mark>Cybersecurity</code> and <mark>Fullstack Software Development</mark>.
 What I am working on right now:
 - 🦉 GSoC'20 student developer for <a href="https://github.com/certego/IntelOwl" target="_blank">IntelOwl</a> 
 under <a href="https://www.honeynet.org/" target="_blank" >The Honeynet Project</a>
