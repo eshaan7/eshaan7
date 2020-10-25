@@ -2,8 +2,9 @@
   
 I am an IT student with interests in <mark>Cybersecurity</code> and <mark>Fullstack Software Development</mark>.
 What I am working on right now:
-- 🦉 Principal maintainer for <a href="https://github.com/certego/IntelOwl" target="_blank">IntelOwl</a> (GSoC'20 student developer)
-under <a href="https://www.honeynet.org/" target="_blank" >The Honeynet Project</a>
+- Backend and Security Intern at [Trell.co](https://trell.co)
+- 🦉 Principal maintainer for <a href="https://github.com/certego/IntelOwl" target="_blank">IntelOwl</a>
+under <a href="https://www.honeynet.org/" target="_blank" >The Honeynet Project</a>. (GSoC'20 student developer)
 - <a target="_blank" href="https://github.com/Eshaan7/Flask-Shell2HTTP">🐍 Flask-Shell2HTTP</a>: 
 A minimalist Flask extension that serves as a REST/HTTP wrapper for python's subprocess API. Map shell commands to flask's endpoints and query asynchronously. 
 - <a target="_blank" href="https://github.com/Eshaan7/django-rest-durin">🐍 Django-Rest-Durin</a>: 
