@@ -1,6 +1,6 @@
 ### Hello there! 👋
   
-I am an IT student with interests in <mark>Cybersecurity</code> and <mark>Fullstack Software Development</mark>.
+I am an IT student with interests in <mark>Cybersecurity</mark> and <mark>Fullstack Software Development</mark>.
 
 Some of my recent work:
 - 🦉 Principal maintainer for <a href="https://github.com/certego/IntelOwl" target="_blank">IntelOwl</a>
