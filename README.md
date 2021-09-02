@@ -17,3 +17,9 @@ Working:
 - Past SWE (intern) @ [Trell.co](https://trell.co).
 
 _A pdf version of my resume is available <a href="https://drive.google.com/file/d/1BLJXR_rFFLP7wobE-Fog363JcbH5uttQ/view" target="_blank" >here</a>._
+
+--------
+
+![GitHub Stats for Phil](https://github-readme-stats.vercel.app/api?username=eshaan7&theme=github_dark&show_icons=true)
+
+
