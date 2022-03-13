@@ -2,7 +2,7 @@
   
 I am Eshaan, a 22 year old software engineer based in India. In my short lived career, I have worked on various kinds of software products involving cyber threat intelligence, malware analysis, content delivery networks, social media networks, restaurant management platform and more.
 
-#### Continous Open-Source Work
+#### Continuous Open-Source Work
 - 🦉  <a href="https://github.com/certego/IntelOwl" target="_blank">**IntelOwl**</a>: Principal maintainer of the project under <a href="https://www.honeynet.org/" target="_blank" >The Honeynet Project</a>. (GSoC'20 participant, GSoC'21,'22 mentor)
 
 #### Packages written by me:
