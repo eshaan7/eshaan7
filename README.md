@@ -15,10 +15,10 @@ I am Eshaan, a 22 year old software engineer based in India. In my short lived c
 A minimalist Flask extension that serves as a REST/HTTP wrapper for python's subprocess API. Map shell commands to flask's endpoints and query asynchronously. 
 - <a target="_blank" href="https://github.com/Eshaan7/django-rest-durin">**Django-Rest-Durin**</a>: 
 Per API Client Token Authentication for Django Rest Framework.
--<a target="_blank" href="https://github.com/Eshaan7/click-creds">**click-creds**</a>: 
+- <a target="_blank" href="https://github.com/Eshaan7/click-creds">**click-creds**</a>: 
 Pluggable credentials storage and management for click CLI apps.
 - <a target="_blank" href="https://github.com/certego/certego-saas">**certego-saas**</a>: Python package consisting of common and re-usable django apps required by all of certego SaaS products.
-- <a target="_blank" href="https://github.com/certego/django-rest-client">**django-rest-client**</a>: ramework for rapid building of ease-of-use, type-hinted and self-documented API clients in python.
+- <a target="_blank" href="https://github.com/certego/django-rest-client">**django-rest-client**</a>: Framework for rapid building of ease-of-use, type-hinted and self-documented API clients in python.
 
 #### Work Experience:
 - SDE 2 @ [DeepSource](https://deepsource.io) (as [@eshaan-deepsource](https://github.com/eshaan-deepsource)).
