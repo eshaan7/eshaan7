@@ -1,6 +1,6 @@
 ### Hello there! 👋
   
-I am Eshaan, a 22 year old software engineer based in India. In my short lived career, I have worked on various kinds of software products involving cyber threat intelligence, malware analysis, content delivery networks, social media networks, restaurant management platform and more.
+I am Eshaan, a 23 year old software engineer based in India. In my short lived career, I have worked on various kinds of software products involving cyber threat intelligence, malware analysis, content delivery networks, social media networks, restaurant management platform and more.
 
 #### Continuous Open-Source Work
 - 🦉  <a href="https://github.com/certego/IntelOwl" target="_blank">**IntelOwl**</a>: Principal maintainer of the project under <a href="https://www.honeynet.org/" target="_blank" >The Honeynet Project</a>. (GSoC'20 participant, GSoC'21,'22 mentor)
@@ -21,7 +21,7 @@ Pluggable credentials storage and management for click CLI apps.
 - <a target="_blank" href="https://github.com/certego/django-rest-client">**django-rest-client**</a>: Framework for rapid building of ease-of-use, type-hinted and self-documented API clients in python.
 
 #### Work Experience:
-- SDE 2 @ [DeepSource](https://deepsource.io) (as [@eshaan-deepsource](https://github.com/eshaan-deepsource)).
+- SDE III @ [DeepSource](https://deepsource.com) (as [@eshaan-deepsource](https://github.com/eshaan-deepsource)).
 - (Past) Software Engineer (Threat Intel) @ [Certego](https://www.certego.net/en/).
 - (Past) SDE intern @ [Trell](https://trell.co).
 
